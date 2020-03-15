@@ -1,0 +1,30 @@
+TOOLS FOR FYP
+1.Bootstrap Studio - is a powerful desktop app for creating responsive websites using the Bootstrap framework.
+2.Icons8 - provides design resources: icons, UI illustrations, photos and software to class up your projects.
+3.FrontEndMasters - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.
+
+PYTHON
+WORD VISUALIZATION
+1.wordnet
+2.spaCy
+
+3.vec2Graph
+4.WebVectors
+5.word embeddings
+
+registered tools
+1.iconscout - free access to thousands of premium icons, illustrations, and stock photos with your
+2..educative - python basic learning   https://www.educative.io/courses/python-data-analysis-and-visualization/m2KVBrLAX1E
+3.eversql - https://www.eversql.com/sql-query-optimizer/
+4.covalence - https://gravity.covalence.io/portal?welcome=true
+5 github pack - https://education.github.com/pack/offers
+6.gitkraken - https://www.gitkraken.com/student-resources
+7.heroku - https://devcenter.heroku.com/articles/getting-started-with-php#set-up
+8.https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+GOOGLE SEARCH
+build word embedding like visuwords
+python library to visualize word
+
+GITHUB SEARCH
+visual word embedding
